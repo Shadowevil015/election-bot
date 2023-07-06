@@ -1,0 +1,23 @@
+{
+  "name": "election-bot",
+  "version": "1.0.0",
+  "description": "A DiscordJS bot to aid with RP elections, on the CCNetMC Minecraft server.",
+  "main": "election-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowevil015/election-bot.git"
+  },
+  "author": "Shadowevil015",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shadowevil015/election-bot/issues"
+  },
+  "homepage": "https://github.com/Shadowevil015/election-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
